@@ -36,7 +36,7 @@ const Page: React.FC<{
         className="home-page__hero"
         style={
           backgroundImage
-            ? { backgroundImage: "../../images/cat.jpg" }
+            ? { backgroundImage: `url("https://87671f5bb3b8475fede3-032d23f6a73c9d63cfa6d92a17139d3a.ssl.cf2.rackcdn.com/product-original-2008977-214577-1525578918-135762aef6a3957dc3189896365bc611")` }
             : null
         }
       >
